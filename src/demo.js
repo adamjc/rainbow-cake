@@ -1,0 +1,1 @@
+rainbowCake.init('canvas')
