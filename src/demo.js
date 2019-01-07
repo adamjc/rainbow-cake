@@ -1,1 +1,1 @@
-rainbowCake.init('canvas')
+rainbowCake.init('canvas', "Put some text here, yo")
