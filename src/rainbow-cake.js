@@ -1,17 +1,18 @@
 (function () {
   window.rainbowCake = {
-    init: function (id, text) {
+    init: function (id, text, font = "64px Arial") {
       const canvas = document.getElementById(id)
+      canvas.style.letterSpacing = "20px"
       const ctx = canvas.getContext('2d')
       
       const realText = text.toUpperCase()
-      ctx.font = "64px Arial"
+      ctx.font = font
       ctx.lineWidth = 3;
       ctx.strokeStyle = "#333"
 
       const startX = 0
       const startY = 60
-      const increment = 5
+      const increment = 7
       const colours = [
         '#d49eae',
         '#a3a3d4',

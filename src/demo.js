@@ -1,1 +1,1 @@
-rainbowCake.init('canvas', "Put some text here, yo")
+rainbowCake.init('canvas', "BRCKHMPTN", "64px Raleway")
