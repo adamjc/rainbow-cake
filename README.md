@@ -1,8 +1,8 @@
 Wanted
-!["it's a text thing"](https://github.com/adamjc/rainbow-cake/blob/master/wanted.png)
+!["it's a text thing"](https://github.com/adamjc/rainbow-cake/blob/master/wanted.png | width=200)
 
 Actual
-!["it's a text thing"](https://github.com/adamjc/rainbow-cake/blob/master/actual.png)
+!["it's a text thing"](https://github.com/adamjc/rainbow-cake/blob/master/actual.png | width=200)
 
 # Usage
 
@@ -11,7 +11,7 @@ Actual
 3. write some text `rainbowCake.init('texty-boi', 'rainbow cake')`
 
 ## Use a different font
-`rainbowCake.init('texty-boi', 'rainbow cake', '32px Times New Roman)` 
+`rainbowCake.init('texty-boi', 'rainbow cake', '32px Times New Roman')` 
 
 # CDN
 
