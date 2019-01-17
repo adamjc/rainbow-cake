@@ -1,8 +1,10 @@
-Wanted
-<img src="https://github.com/adamjc/rainbow-cake/blob/master/wanted.png" width="200">
+*Wanted*
 
-Actual
-<img src="https://github.com/adamjc/rainbow-cake/blob/master/actual.png" width="200">
+<img src="https://github.com/adamjc/rainbow-cake/blob/master/wanted.png" width="400">
+
+*Actual*
+
+<img src="https://github.com/adamjc/rainbow-cake/blob/master/actual.png" width="400">
 
 # Usage
 
