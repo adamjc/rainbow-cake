@@ -1,8 +1,8 @@
 Wanted
-!["it's a text thing"](https://github.com/adamjc/rainbow-cake/blob/master/wanted.png | width=200)
+<img src="https://github.com/adamjc/rainbow-cake/blob/master/wanted.png" width="200">
 
 Actual
-!["it's a text thing"](https://github.com/adamjc/rainbow-cake/blob/master/actual.png | width=200)
+<img src="https://github.com/adamjc/rainbow-cake/blob/master/actual.png" width="200">
 
 # Usage
 
