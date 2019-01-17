@@ -3,3 +3,20 @@ Wanted
 
 Actual
 !["it's a text thing"](https://github.com/adamjc/rainbow-cake/blob/master/actual.png)
+
+# Usage
+
+1. plop it in your `<scripts>` tag
+2. make a canvas `<canvas id="texty-boi"><canvas>`
+3. write some text `rainbowCake.init('texty-boi', 'rainbow cake')`
+
+## Use a different font
+`rainbowCake.init('texty-boi', 'rainbow cake', '32px Times New Roman)` 
+
+# CDN
+
+https://cdn.jsdelivr.net/gh/adamjc/rainbow-cake@1.0/index.js
+
+# It's kind of shit
+
+Yeah, I know
