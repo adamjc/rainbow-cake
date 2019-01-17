@@ -6,6 +6,10 @@
 
 <img src="https://github.com/adamjc/rainbow-cake/blob/master/actual.png" width="400">
 
+# CDN
+
+https://cdn.jsdelivr.net/gh/adamjc/rainbow-cake@1.0/index.js
+
 # Usage
 
 1. plop it in your `<scripts>` tag
@@ -14,10 +18,6 @@
 
 ## Use a different font
 `rainbowCake.init('texty-boi', 'rainbow cake', '32px Times New Roman')` 
-
-# CDN
-
-https://cdn.jsdelivr.net/gh/adamjc/rainbow-cake@1.0/index.js
 
 # It's kind of shit
 
