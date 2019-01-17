@@ -1,1 +1,0 @@
-rainbowCake.init('canvas', "BRCKHMPTN", "64px Raleway")
